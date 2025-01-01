@@ -1,0 +1,27 @@
+.navbar {
+    background-color: brown;
+}
+
+.navbar .main {
+    display: flex;
+    align-items: center;
+    padding: 15px 0px 15px 150px;
+}
+
+.navbar .main img {
+    height: 70px;
+}
+
+.navbar .main-link {
+    margin-left: auto;
+    margin-right: 50px;
+}
+
+.navbar a {
+    text-decoration: none;
+    color: #fff;
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
